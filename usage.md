@@ -15,4 +15,4 @@ addData({ id: 4, name: 'New Item' });
 // Setup db.json with data from example.json
 setup(path.join(__dirname, 'example.json'));
 
-[![⭐ Star on GitHub]](https://github.com/yourusername/yourrepo)
+[![⭐ Star on GitHub]](https://github.com/ByK1ttY/bydata/edit/main/README.md)
