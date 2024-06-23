@@ -1,0 +1,13 @@
+{
+  "name": "bydata",
+  "version": "1.0.1",
+  "description": "My app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
